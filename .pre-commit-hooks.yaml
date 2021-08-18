@@ -1,0 +1,6 @@
+-   id: detect-nocheckin
+    name: Detect @nocheckin
+    description: Detects @nocheckin comments
+    entry: detect-nocheckin
+    language: python
+    types: [text]
